@@ -17,7 +17,7 @@ uso dessa ferramenta é apenas para propositos legais!!!
 - Se estiver usando uma Máquina Virtual(VM), verifique se as configurações de rede estejam em modo **Bridged Adapter** ou **Placa de modo Bridge**.
 - Ao clonar uma página, clone a página de login e senha.
 - Verificar possiveis erros de CORS(Cross-origin Resource Sharing).
-- Se não conseguir corrigir o erro de CORS(Cross-origin Resource Sharing) tente outra página web.
+  
 
 ### **Configurando o Phishing no Kali Linux**
 ###### **Resumo**:
